@@ -1,0 +1,25 @@
+{
+  "name": "AudioKolot Updates",
+  "identifier": "com.kolot.audiokolot.updates",
+  "sourceURL": "https://raw.githubusercontent.com/maxkolot/AudioKolot-Releases/main/source.json",
+  "apps": [
+    {
+      "versions": [
+        {
+          "version": "0.7.0",
+          "buildVersion": "17",
+          "date": "2026-10-20",
+          "localizedDescription": "AudioKolot iOS release 0.7.0",
+          "downloadURL": "https://raw.githubusercontent.com/maxkolot/AudioKolot-Releases/main/releases/0.7.0/17/AudioKolot.ipa",
+          "size": 1244110,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "name": "AudioKolot",
+      "bundleIdentifier": "com.kolot.AudioKolot",
+      "developerName": "KOLOT",
+      "localizedDescription": "Native vocal studio with pitch correction, effects, multitrack recording and an Ableton Live bridge.",
+      "iconURL": "https://raw.githubusercontent.com/maxkolot/AudioKolot-Releases/main/icon.png"
+    }
+  ]
+}
